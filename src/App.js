@@ -15,7 +15,7 @@ import { BrowserRouter } from "react-router-dom";
 function App() {
   return (
     <BrowserRouter
-     basename="/portFolio"
+    //  basename="/portFolio"
      >
     <div className="App">
       <Navbar />
